@@ -8,7 +8,7 @@ AE is a tool that automate many procedures during injecting a payload into an an
 
 Video Proof: https://youtu.be/XuiNO4jjxOk
 
-### FEATURES
+### ⚙️ FEATURES
 
 - You can add your Custom Payload
 - Compatible with AhmythRAT
@@ -16,7 +16,7 @@ Video Proof: https://youtu.be/XuiNO4jjxOk
 - Compatible with Metasploit
 - And it is very simple to use
 
-### HOW TO INSTALL
+### 📖 HOW TO INSTALL
 
 1. Download the tool
 2. Unzip the file
@@ -27,7 +27,7 @@ Video Proof: https://youtu.be/XuiNO4jjxOk
 
 To learn more please watch this video:
 
-### HOW TO UPDATE
+### 📡 HOW TO UPDATE
 
 You can check updates from our official website:
 https://ctoslab.com/products/
@@ -36,7 +36,7 @@ https://ctoslab.com/products/
 For feature recommendation please add it on the "Issues" tab or contact us:
 https://www.ctoslab.com/support/
 
-### Donate
+### 💰 Donate
 
 If you like my work, consider buying me a coffee :)
 
