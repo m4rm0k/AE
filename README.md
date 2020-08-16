@@ -34,10 +34,8 @@ You can check updates from our official website:
 https://ctoslab.com/products/
 
 
-For feature recommendation please add it on the "Issues" tab or contact us: 
-Telegram: https://t.me/ctoslab/
-Facebook: https://fb.com/ctoslab
-Website: https://ctoslab.com/
+For feature recommendation please add it on the "Issues" tab or contact us:
+https://www.ctoslab.com/support/
 
 Donate
 
