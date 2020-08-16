@@ -6,9 +6,7 @@ This tool will make your tasks easier during exploiting android devices using ad
 
 AE is a tool that automate many procedures during injecting a payload into an android device remotely. It works in LAN/WAN Network. This tool was made for Windows users.
 
-Video Proof:
-
-[![Proof](https://i.ytimg.com/vi/XuiNO4jjxOk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA8wKj825z-MhBP4Fj4J2lAfsXM5w)](https://www.youtube.com/watch?v=XuiNO4jjxOk)
+Video Proof: https://youtu.be/XuiNO4jjxOk
 
 ### FEATURES
 
