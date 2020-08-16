@@ -1,15 +1,13 @@
-# Welcome to AE tool version 1.54
+### Welcome to AE tool version 1.54
 
 This tool will make your tasks easier during exploiting android devices using adb exploit, and of course a lot faster.
 
-We are not responsible on how you use this tool.
-
-What is this ?
+### What is this ?
 
 AE is a tool that automate many procedures during injecting a payload into an android device remotely. It works in LAN/WAN Network. This tool was made for Windows users.
 Video Proof: 
 
-FEATURES
+### FEATURES
 
 - You can add your Custom Payload
 - Compatible with AhmythRAT
@@ -17,7 +15,7 @@ FEATURES
 - Compatible with Metasploit
 - And it is very simple to use
 
-HOW TO INSTALL
+### HOW TO INSTALL
 
 1. Download the tool
 2. Unzip the file
@@ -28,7 +26,7 @@ HOW TO INSTALL
 
 To learn more please watch this video:
 
-HOW TO UPDATE
+### HOW TO UPDATE
 
 You can check updates from our official website:
 https://ctoslab.com/products/
@@ -37,8 +35,10 @@ https://ctoslab.com/products/
 For feature recommendation please add it on the "Issues" tab or contact us:
 https://www.ctoslab.com/support/
 
-Donate
+### Donate
 
 If you like my work, consider buying me a coffee :)
 
 Bitcoin > 12ZGhmVWi8QboVoExWjUFinyJpaKLqAmHN
+
+⚠️ We are not responsible on how you use this tool.
