@@ -1,10 +1,14 @@
 ### Welcome to AE tool version 1.54
 
-![](screenshots/Start.jpg)
-![](screenshots/Ahmyth.jpg)
-![](screenshots/Spynote.jpg)
-![](screenshots/Metasploit.jpg)
-![](screenshots/Custom.jpg)
+<img src="screenshots/Start.jpg" width=400 align="center">
+
+<img src="screenshots/Ahmyth.jpg" width=400 align="center">
+
+<img src="screenshots/Spynote.jpg" width=400 align="center">
+
+<img src="screenshots/Metasploit.jpg" width=400 align="center">
+
+<img src="screenshots/Custom.jpg" width=400 align="center">
 
 
 This tool will make your tasks easier during exploiting android devices using adb exploit, and of course a lot faster.
