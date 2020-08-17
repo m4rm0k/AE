@@ -1,5 +1,6 @@
 ### Welcome to AE tool version 1.54
 
+This tool will make your tasks easier during exploiting android devices using adb exploit, and of course a lot faster.
 
 <img src="screenshots/Start.jpg" width=400 align="center">
 
@@ -10,9 +11,6 @@
 <img src="screenshots/Metasploit.jpg" width=400 align="center">
 
 <img src="screenshots/Custom.jpg" width=400 align="center">
-
-
-This tool will make your tasks easier during exploiting android devices using adb exploit, and of course a lot faster.
 
 ### ❗ What is this ?
 
