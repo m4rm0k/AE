@@ -35,7 +35,7 @@ Video Proof: https://youtu.be/XuiNO4jjxOk
 5. Type your target IP address
 6. Select your payload.apk and press Exploit button.
 
-To learn more please watch this video:
+To learn more please watch this video: https://youtu.be/XuiNO4jjxOk
 
 ### 📡 HOW TO UPDATE
 
