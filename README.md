@@ -52,4 +52,4 @@ If you like my work, consider buying me a coffee :)
 
 Bitcoin > 12ZGhmVWi8QboVoExWjUFinyJpaKLqAmHN
 
-⚠️ We are not responsible on how you use this tool.
+⚠️ We are not responsible on how you use this tool. 
